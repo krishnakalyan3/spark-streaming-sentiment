@@ -10,3 +10,12 @@ To Run:
  - Import the maven project to eclipse
  - Run `twitstream.scala` as scala application 
 
+`
+.
+├── Code
+│   ├── SentimentAnalysisUtils.scala
+│   ├── TwitterKeywords.scala
+│   └── TwitterSentimentAnalysis.scala
+├── README.md
+└── build.sbt
+`
